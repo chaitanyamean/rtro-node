@@ -1,0 +1,411 @@
+[{
+        "skillSet": [{
+                "skillId": "enybdYRW0",
+                "skill": "Node"
+            },
+            {
+                "skillId": "_y8sBZmnN",
+                "skill": "Angular"
+            },
+            {
+                "skillId": "p1ggIBERh",
+                "skill": "React"
+            }
+        ],
+        "_id": "5d2b7fb7de2b850a23bbfe1c",
+        "jobId": "ChNhfiyHI",
+        "experience": 4,
+        "location": "Hyderabad",
+        "jobTitle": "Software Engineer",
+        "jobDescription": "<p>Job Description Management and staff in Kofax&rsquo;s Software Engineering job family help the company to build and improve new and/or existing software products and their applications that we sell to our customers. The position of Engineer is a core, entry-level departmental role and appointees are expected to perform whole core departmental tasks; albeit more basic tasks by comparison to Senior Engineers/Specialists and above. Engineers will perform some of the following work and be involved in other aspects, as assigned: &bull; Contributing to product ideas and innovation &bull; Evaluating product roadmaps (working with Product Management, among other internal partners) to determine design and programming development requirements to meet customer needs (includes evaluating existing products and applications to enhance these and/or designing new products and applications) &bull; Conducting research, where appropriate and needed, to solve specific design problems &bull; Creating product and/or applications&rsquo; architecture and design documentation to specify engineering development requirements &bull; Writing/developing code for new, existing or enhanced software products and applications &bull; Working with various internal partners (such as Quality Assurance) to test new or enhanced products and their applications &bull; Participating in cross-functional build/configuration activities to ensure overall effective and efficient new or enhanced engineering design &bull; Contributing to downstream business activities such as technical publications and other technical communications&rsquo; tool development to ensure streamlined and effective end-user use of Kofax software products and their applications &bull; Ensuring new or updated releases are completed on-time, on-target, on-budget and without compromise to quality &bull; Supporting other internal and external partners/stakeholders/customers, as and when appropriate, in responding to technical inquiries &bull; Staying abreast of industry and field developments; remaining current in the latest technologies and functionalities, as well as ever-evolving needs of customers and their customers Other Responsibilities &bull; Domestic and/or International travel up to 10% is required Required Experience Candidates for this position should hold the following qualifications, have the following experience, and be able to demonstrate the following competencies to be considered as a suitable applicant. Please note that except where specified as &ldquo;preferred,&rdquo; or as a &ldquo;plus,&rdquo; all points listed below are considered minimum requirements. &bull; Bachelors Degree in a related discipline is strongly preferred &bull; Typically has 2 or more years&rsquo; relevant technical experience &bull; * Primary Skills: &bull; C# &bull; .NET experience &bull; WCF &bull; WPF &bull; Secondary Skills: &bull; WWF &bull; SQL Server &bull; Good to have skills: &bull; AppFabric &bull; ASP .net &bull; Delphi Kofax, Inc. is an Equal Opportunity Employer, M/F/D/V</p>\n",
+        "image": "",
+        "email": "raghu@kofax.com",
+        "mobileNumber": 909099909,
+        "companyName": "Kofax Software",
+        "__v": 0
+    },
+    {
+        "skillSet": [{
+            "skillId": "enybdYRW0",
+            "skill": "Node"
+        }],
+        "_id": "5d2b86ea93eb1a0b99924f1e",
+        "jobId": "8wpSLHj5AG",
+        "experience": 4,
+        "location": "Indore",
+        "jobTitle": "Renewals Specialist",
+        "jobDescription": "<p>ob Description Maintenance Renewal Activities in support of assigned geography. Key Responsibilities &bull; Engage with and resolve issues with customers as is relates to renewals. &bull; Generation of proactive renewal quotes 90-days in advance of contract expiration &bull; Responding to contract inquiries, requests for quotes, and renewal orders to be submitted for processing within team service level objectives &bull; Participation in triage for the Imaging M&amp;S renewals team including contracts@kofax.com and Right Now (Oracle Service Cloud) service portal tickets &bull; Creation of Right Now (Oracle Service Cloud) tickets related to contract inquiries, quote requests, renewal orders or other requests &bull; Ownership and investigation of M&amp;S Inquiries including responding to partners and customers to close the inquiry &bull; Review of information provided by customers and partners on Renewal Quote and Renewal Order requests to ensure sufficient information is provided and that orders meet Kofax clean order requirements. Required Skills &bull; Customer Service experience,Renewal or order management experience &bull; Experience in a high transaction organization, preferably within the software and/or hardware industries. &bull; Knowledge of Customer Support processes and practices &bull; Experience with ERP &amp; CRM required. (Oracle and SFDC) &bull; Ability to work collaboratively in a fast paced, complex environment. &bull; Previous use of Sales Order Processing, Install Base Service Modules, Software Licensing tools and Support Systems. &bull; Basic capability with Microsoft Applications (including proficiency in Excel) &bull; Excellent interpersonal written and communication skills ( English language). &bull; Excellent attention to detail &bull; Ability to display a high-energy level and adapt to a fast-paced changing environment is key to the success of this position. &bull; Proven ability to initiate and implement process changes. Required Experience &bull; Minimum of 3-5 years experience in a sales support environment, preferably with background in software/hardware technology working with maintenance renewals. &bull; Ability to interact and communicate both internally and externally. &bull; Ability to analyze and present data in a way that meets the needs of the recipient. &bull; Basic knowledge of Microsoft Word and Excel. &bull; Effective written and verbal communication skills( English language</p>\n",
+        "image": "https://my-app-123.s3.ap-south-1.amazonaws.com/0poA8F7du.jpg",
+        "email": "krrish.309@gmail.com",
+        "mobileNumber": 9642098465,
+        "companyName": "Kofax Software",
+        "__v": 0
+    },
+    {
+        "skillSet": [{
+                "skillId": "V2nM7R3ei",
+                "skill": "QA"
+            },
+            {
+                "skillId": "6-7sMoI9-",
+                "skill": "BA"
+            }
+        ],
+        "_id": "5d2b8a4293eb1a0b99924f20",
+        "jobId": "G-bEI97EA",
+        "experience": 4,
+        "location": "Hyderabad",
+        "jobTitle": "Sr. Engineer Quality Assurance",
+        "jobDescription": "<p>Job Description Management and staff in Kofax&rsquo;s Quality Assurance job family help the company to assure that its products and technology solutions are designed and built in accordance with company standards and customer requirements. The position of Senior Engineer requires that appointees are capable of making independent technical decisions on assigned work. Senior Engineers should be capable of independently performing most, if not all, of the following tasks: &bull; Developing quality assurance standards, requirements and metrics for all Kofax products and their applications, as well as customer-specific technology solutions &bull; Identifying, acquiring and using industry best-practice equipment, systems and programs for conducting all product and solutions&rsquo; quality assurance testing &bull; Working with cross-functional partners, such as Core Engineering and Product Management, to proactively evaluate product roadmaps and other innovations; contributing a specialist quality assurance perspective and providing such input and feedback into the development process &bull; Developing and executing against quality assurance test plans: &bull; Developing and maintaining automated test programs and scripts &bull; Developing and executing against detailed test procedures and test cases &bull; Collaborating with cross-functional partners to resolve problems and identify root causes of potential defects &bull; Evaluating and reporting on test execution results &bull; Working within team and across departments to identify, recommend, develop, implement and maintain quality assurance testing processes and practices; continuously contributing to streamlined, more effective and efficient quality assurance testing &bull; Contributing, as appropriate, to downstream business activities such as technical publications and other technical communications&rsquo; tool development to ensure streamlined and effective end-user use of Kofax software products and their applications &bull; Through efficient and effective quality assurance testing standards, tools, techniques and execution, helping Core Engineering and other cross-functional partners to maximize the potential for new or updated releases to be completed on-time, on-target, on-budget and without compromise to quality &bull; Supporting other internal and external partners/stakeholders/customers, as and when appropriate, in responding to quality assurance testing inquiries and/or other ad hoc needs &bull; Staying abreast of industry and field developments; remaining current in the latest quality assurance testing technologies and functionalities, as well as ever-evolving needs of customers and their customers Other Responsibilities &bull; Domestic and/or International travel up to 10% is required Required Experience Candidates for this position should hold the following qualifications, have the following experience, and be able to demonstrate the following competencies to be considered as a suitable applicant. Please note that except where specified as &ldquo;preferred,&rdquo; or as a &ldquo;plus,&rdquo; all points listed below are considered minimum requirements. &bull; Bachelors Degree in a related discipline is strongly preferred &bull; Typically has a minimum of 5 years&rsquo; relevant technical experience &bull; Has a minimum of 1 or more years&rsquo; previous experience with similar product lines or subject areas as Kofax &bull; Must demonstrate the ability to work independently on larger or more complex departmental assignments</p>\n",
+        "image": "",
+        "email": "krishnavulchi.kc@gmail.com",
+        "mobileNumber": 9642098465,
+        "companyName": "Kofax Software",
+        "__v": 0
+    },
+    {
+        "skillSet": [{
+            "skillId": "6-7sMoI9-",
+            "skill": "BA"
+        }],
+        "_id": "5d2b909493eb1a0b99924f21",
+        "jobId": "ddwEUBM0m",
+        "experience": 3,
+        "location": "Indore",
+        "jobTitle": "ww",
+        "jobDescription": "<p>wwwwww</p>\n",
+        "image": "",
+        "email": "",
+        "mobileNumber": null,
+        "companyName": "ww",
+        "__v": 0
+    },
+    {
+        "skillSet": [{
+            "skillId": "6-7sMoI9-",
+            "skill": "BA"
+        }],
+        "_id": "5d2b90fd93eb1a0b99924f22",
+        "jobId": "W82kI6mGc",
+        "experience": 3,
+        "location": "Hyderabad",
+        "jobTitle": "qqqq",
+        "jobDescription": "<p>hello</p>\n",
+        "image": "",
+        "email": "",
+        "mobileNumber": null,
+        "companyName": "qqqq",
+        "__v": 0
+    },
+    {
+        "skillSet": [{
+            "skillId": "V2nM7R3ei",
+            "skill": "QA"
+        }],
+        "_id": "5d2cbb86ba522402e14f6198",
+        "jobId": "7jHpt1ak4",
+        "experience": 4,
+        "location": "Hyderabad",
+        "jobTitle": "test",
+        "jobDescription": "<p>Senior Engineers should be capable of independently performing most, if not all, of the following tasks:</p>\n\n<p>&bull; Developing quality assurance standards, requirements and metrics for all Kofax products and their applications, as well as customer-specific technology solutions</p>\n\n<p>&bull; Identifying, acquiring and using industry best-practice equipment, systems and programs for conducting all product and solutions&rsquo; quality assurance testing</p>\n\n<p>&bull; Working with cross-functional partners, such as Core Engineering and Product Management, to proactively evaluate product roadmaps and other innovations; contributing a specialist quality assurance perspective and providing such input and feedback into the development process</p>\n\n<p>&bull; Developing and executing against quality assurance test plans:</p>\n\n<p>&bull; Developing and maintaining automated test programs and scripts</p>\n\n<p>&bull; Developing and executing against detailed test procedures and test cases</p>\n\n<p>&bull; Collaborating with cross-functional partners to resolve problems and identify root causes of potential defects</p>\n\n<p>&bull; Evaluating and reporting on test execution results</p>\n\n<p>&bull; Working within team and across departments to identify, recommend, develop, implement and maintain quality assurance testing processes and practices; continuously contributing to streamlined, more effective and efficient quality assurance testing&nbsp;</p>\n",
+        "image": "",
+        "email": "",
+        "mobileNumber": null,
+        "companyName": "test",
+        "__v": 0
+    },
+    {
+        "skillSet": [{
+                "skillId": "6-7sMoI9-",
+                "skill": "BA"
+            },
+            {
+                "skillId": "V2nM7R3ei",
+                "skill": "QA"
+            },
+            {
+                "skillId": "_y8sBZmnN",
+                "skill": "Angular"
+            },
+            {
+                "skillId": "enybdYRW0",
+                "skill": "Node"
+            },
+            {
+                "skillId": "p1ggIBERh",
+                "skill": "React"
+            }
+        ],
+        "_id": "5d37c03692b8f30500ddc1fc",
+        "jobId": "sxGzzL1WmK",
+        "experience": 2,
+        "location": "Banglore",
+        "jobTitle": "this is elastic search",
+        "jobDescription": "<p>hello this is elasti csearh</p>\n",
+        "image": "https://my-app-123.s3.ap-south-1.amazonaws.com/hFbNHJgdC.jpg",
+        "email": "chaitanyaang4@gmail.com",
+        "mobileNumber": 9999090900,
+        "companyName": "Elastic.co",
+        "__v": 0
+    },
+    {
+        "skillSet": [{
+                "skillId": "6-7sMoI9-",
+                "skill": "BA"
+            },
+            {
+                "skillId": "V2nM7R3ei",
+                "skill": "QA"
+            },
+            {
+                "skillId": "_y8sBZmnN",
+                "skill": "Angular"
+            },
+            {
+                "skillId": "enybdYRW0",
+                "skill": "Node"
+            },
+            {
+                "skillId": "p1ggIBERh",
+                "skill": "React"
+            }
+        ],
+        "_id": "5d37c0a351e5880526993cb7",
+        "jobId": "DxMDrVKJgM",
+        "experience": 2,
+        "location": "Banglore",
+        "jobTitle": "test 2",
+        "jobDescription": "<p>hello this is elasti csearh</p>\n",
+        "image": "https://my-app-123.s3.ap-south-1.amazonaws.com/31swzVYsX.jpg",
+        "email": "chaitanyaang4@gmail.com",
+        "mobileNumber": 9999090900,
+        "companyName": "Elastic.co",
+        "__v": 0
+    },
+    {
+        "skillSet": [{
+                "skillId": "6-7sMoI9-",
+                "skill": "BA"
+            },
+            {
+                "skillId": "V2nM7R3ei",
+                "skill": "QA"
+            },
+            {
+                "skillId": "_y8sBZmnN",
+                "skill": "Angular"
+            },
+            {
+                "skillId": "enybdYRW0",
+                "skill": "Node"
+            },
+            {
+                "skillId": "p1ggIBERh",
+                "skill": "React"
+            }
+        ],
+        "_id": "5d37c10ff10e780548d4f77a",
+        "jobId": "HEit90X07J",
+        "experience": 2,
+        "location": "Banglore",
+        "jobTitle": "test 3",
+        "jobDescription": "<p>hello this is elasti csearh</p>\n",
+        "image": "https://my-app-123.s3.ap-south-1.amazonaws.com/oD4G7zCmI.jpg",
+        "email": "chaitanyaang4@gmail.com",
+        "mobileNumber": 9999090900,
+        "companyName": "Elastic.co",
+        "__v": 0
+    },
+    {
+        "skillSet": [{
+                "skillId": "6-7sMoI9-",
+                "skill": "BA"
+            },
+            {
+                "skillId": "V2nM7R3ei",
+                "skill": "QA"
+            },
+            {
+                "skillId": "_y8sBZmnN",
+                "skill": "Angular"
+            },
+            {
+                "skillId": "enybdYRW0",
+                "skill": "Node"
+            },
+            {
+                "skillId": "p1ggIBERh",
+                "skill": "React"
+            }
+        ],
+        "_id": "5d37c344df9c3905cd55af7b",
+        "jobId": "k2vQeIMWBr",
+        "experience": 2,
+        "location": "Banglore",
+        "jobTitle": "test 4",
+        "jobDescription": "<p>hello this is elasti csearh</p>\n",
+        "image": "https://my-app-123.s3.ap-south-1.amazonaws.com/483uxNS-I.jpg",
+        "email": "chaitanyaang4@gmail.com",
+        "mobileNumber": 9999090900,
+        "companyName": "Elastic.co",
+        "__v": 0
+    },
+    {
+        "skillSet": [{
+                "skillId": "6-7sMoI9-",
+                "skill": "BA"
+            },
+            {
+                "skillId": "V2nM7R3ei",
+                "skill": "QA"
+            },
+            {
+                "skillId": "_y8sBZmnN",
+                "skill": "Angular"
+            },
+            {
+                "skillId": "enybdYRW0",
+                "skill": "Node"
+            },
+            {
+                "skillId": "p1ggIBERh",
+                "skill": "React"
+            }
+        ],
+        "_id": "5d37c3c7b5956c05e92ef7c5",
+        "jobId": "FyBMAecGMH",
+        "experience": 2,
+        "location": "Banglore",
+        "jobTitle": "test 5",
+        "jobDescription": "<p>hello this is elasti csearh</p>\n",
+        "image": "https://my-app-123.s3.ap-south-1.amazonaws.com/jFgbG7LCl.jpg",
+        "email": "chaitanyaang4@gmail.com",
+        "mobileNumber": 9999090900,
+        "companyName": "Elastic.co",
+        "__v": 0
+    },
+    {
+        "skillSet": [{
+                "skillId": "6-7sMoI9-",
+                "skill": "BA"
+            },
+            {
+                "skillId": "V2nM7R3ei",
+                "skill": "QA"
+            },
+            {
+                "skillId": "_y8sBZmnN",
+                "skill": "Angular"
+            },
+            {
+                "skillId": "enybdYRW0",
+                "skill": "Node"
+            },
+            {
+                "skillId": "p1ggIBERh",
+                "skill": "React"
+            }
+        ],
+        "_id": "5d37c3f842440b05f89b43c8",
+        "jobId": "PUT49eUb9y",
+        "experience": 2,
+        "location": "Banglore",
+        "jobTitle": "test 5",
+        "jobDescription": "<p>hello this is elasti csearh</p>\n",
+        "image": "https://my-app-123.s3.ap-south-1.amazonaws.com/q3ILMUXJL.jpg",
+        "email": "chaitanyaang4@gmail.com",
+        "mobileNumber": 9999090900,
+        "companyName": "Elastic.co",
+        "__v": 0
+    },
+    {
+        "skillSet": [{
+                "skillId": "6-7sMoI9-",
+                "skill": "BA"
+            },
+            {
+                "skillId": "V2nM7R3ei",
+                "skill": "QA"
+            },
+            {
+                "skillId": "_y8sBZmnN",
+                "skill": "Angular"
+            },
+            {
+                "skillId": "enybdYRW0",
+                "skill": "Node"
+            },
+            {
+                "skillId": "p1ggIBERh",
+                "skill": "React"
+            }
+        ],
+        "_id": "5d37c42e7ee0ba06060387b3",
+        "jobId": "tlfknAlic-",
+        "experience": 2,
+        "location": "Banglore",
+        "jobTitle": "test 5",
+        "jobDescription": "<p>hello this is elasti csearh</p>\n",
+        "image": "https://my-app-123.s3.ap-south-1.amazonaws.com/-0vOAWyqc.jpg",
+        "email": "chaitanyaang4@gmail.com",
+        "mobileNumber": 9999090900,
+        "companyName": "Elastic.co",
+        "__v": 0
+    },
+    {
+        "skillSet": [{
+                "skillId": "6-7sMoI9-",
+                "skill": "BA"
+            },
+            {
+                "skillId": "V2nM7R3ei",
+                "skill": "QA"
+            },
+            {
+                "skillId": "_y8sBZmnN",
+                "skill": "Angular"
+            },
+            {
+                "skillId": "enybdYRW0",
+                "skill": "Node"
+            },
+            {
+                "skillId": "p1ggIBERh",
+                "skill": "React"
+            }
+        ],
+        "_id": "5d37c4ddda756e06260ffe0f",
+        "jobId": "0-WKJ9RjI6",
+        "experience": 2,
+        "location": "Banglore",
+        "jobTitle": "elastic test",
+        "jobDescription": "<p>hello this is elasti csearh</p>\n",
+        "image": "https://my-app-123.s3.ap-south-1.amazonaws.com/IK3GmvtqY.jpg",
+        "email": "chaitanyaang4@gmail.com",
+        "mobileNumber": 9999090900,
+        "companyName": "Elastic.co",
+        "__v": 0
+    },
+    {
+        "skillSet": [{
+                "skillId": "6-7sMoI9-",
+                "skill": "BA"
+            },
+            {
+                "skillId": "V2nM7R3ei",
+                "skill": "QA"
+            }
+        ],
+        "_id": "5d37c64cda756e06260ffe10",
+        "jobId": "nYkeVfPG_i",
+        "experience": 3,
+        "location": "Banglore",
+        "jobTitle": "Software Engineer, Front End",
+        "jobDescription": "<p>Job Description Management and staff in Kofax&rsquo;s Software Engineering job family help the company to build and improve new and/or existing software products and their applications that we sell to our customers. The position of Senior Engineer requires that appointees are capable of making independent technical decisions on assigned work. Senior Engineers should be capable of independently performing most, if not all, of the following tasks:</p>\n\n<p>&bull; Contributing to product ideas and innovation</p>\n\n<p>&bull; Evaluating product roadmaps (working with Product Management, among other internal partners) to determine design and programming development requirements to meet customer needs (includes evaluating existing products and applications to enhance these and/or designing new products and applications)</p>\n\n<p>&bull; Conducting research, where appropriate and needed, to solve specific design problems</p>\n\n<p>&bull; Creating product and/or applications&rsquo; architecture and design documentation to specify engineering development requirements</p>\n\n<p>&bull; Writing/developing code for new, existing or enhanced software products and applications</p>\n\n<p>&bull; Working with various internal partners (such as Quality Assurance) to test new or enhanced products and their applications</p>\n\n<p>&bull; Participating in cross-functional build/configuration activities to ensure overall effective and efficient new or enhanced engineering design&nbsp;</p>\n\n<p>&bull; Bachelors Degree in a related discipline is strongly preferred</p>\n\n<p>&bull; Typically has a minimum of 3 years&rsquo; relevant technical experience</p>\n\n<p>&bull; Has a minimum of 1 or more years&rsquo; previous experience with similar product lines or subject areas as Kofax</p>\n\n<p>&bull; Must demonstrate the ability to work independently on larger or more complex departmental assignments Kofax, Inc. is an Equal Opportunity Employer, M/F/D/V</p>\n",
+        "image": "https://my-app-123.s3.ap-south-1.amazonaws.com/gbTmSk8CS.jpg",
+        "email": "krrish.309@gmail.com",
+        "mobileNumber": 9642098465,
+        "companyName": "Kofax Software",
+        "__v": 0
+    }
+]
