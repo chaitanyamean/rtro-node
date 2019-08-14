@@ -300,7 +300,7 @@ router.delete("/deleteJobById/:id", checkAuth, async (req, res) => {
       jobId: req.params.id
     });
 
-    
+    console.log(deletedJobDetails)
     if (deletedJobDetails) {
 
       client.delete(
