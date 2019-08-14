@@ -21,7 +21,7 @@ const sampleModal = mongoose.model("sample");
 const constituencies = require("../models/constituencies");
 const constituenciesModal = mongoose.model("constituencies");
 const response = require("../libs/responseLibs");
-const checkAuth = require('../middleware/check-auth')
+const checkAuth = require('../middlewares/check-auth')
 
 
 /**
