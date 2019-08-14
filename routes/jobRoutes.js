@@ -21,6 +21,8 @@ const sampleModal = mongoose.model("sample");
 const constituencies = require("../models/constituencies");
 const constituenciesModal = mongoose.model("constituencies");
 const response = require("../libs/responseLibs");
+const checkAuth = require('../middleware/check-auth')
+
 
 /**
  *
@@ -292,12 +294,13 @@ router.get("/getAlljobs", async (req, res) => {
   }
 });
 
-router.delete("/deleteJobById/:id", async (req, res) => {
+router.delete("/deleteJobById/:id", checkAuth, async (req, res) => {
   try {
     let deletedJobDetails = await AddJobsModel.deleteOne({
       jobId: req.params.id
     });
 
+    
     if (deletedJobDetails) {
 
       client.delete(
