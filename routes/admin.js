@@ -23,7 +23,7 @@ const AdminLoginModel = mongoose.model('adminLogin')
  * 
  * 
  */
-router.post('/admin-login', async (req, res) => {
+router.post('/login', async (req, res) => {
 
   try {
   const userDetails = await AdminLoginModel.findOne({
