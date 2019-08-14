@@ -29,8 +29,8 @@ const response = require('../libs/responseLibs')
  */
 var elasticsearch = require('elasticsearch')
 var client = new elasticsearch.Client({
-  // host: 'https://site:0bc25b65fa425f5fad0303ec737d637b@thorin-us-east-1.searchly.com'
-  host: 'http://localhost:9200'
+  host: 'https://site:0bc25b65fa425f5fad0303ec737d637b@thorin-us-east-1.searchly.com'
+  // host: 'http://localhost:9200'
 })
 
 /**
