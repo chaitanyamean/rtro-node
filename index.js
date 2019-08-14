@@ -1,5 +1,7 @@
 const appConfig = require('./config/appconfig')
 const jobRoutes = require('./routes/jobRoutes');
+const addGuidance = require('./routes/addGuidance');
+const admin = require('./routes/admin');
 
 /** * External Imports **/
 const mongoose = require('mongoose')
@@ -38,6 +40,10 @@ app.use((req, res, next) => {
  * Load Routes
  */
 app.use('/jobRoutes', jobRoutes);
+// app.use('/addGuidance', addGuidance);
+app.use('/admin', admin);
+
+
 
 
 /**
