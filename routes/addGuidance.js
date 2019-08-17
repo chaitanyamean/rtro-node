@@ -40,10 +40,17 @@ router.post('/addGuidance', async (req, res) => {
       let guidanceData = await guidanceObj.save();
   
       if (guidanceData) {
-        res.send(guidanceData)
+        // res.send(guidanceData)
+
+        response.generate(false, 'Submitted successfully', 200, guidanceData)
+        res.send(response.generate(false, 'Submitted successfully', 200, guidanceData))
+      } else {
+        res.send(response.generate(true, 'Unable to save, please try after some time', 400, null));
       }
     } catch (e) {
-      res.send('Unable to add the Skill Details')
+      res.send(response.generate(false, 'Error while saving', 500, null));
+
+
   
     }
   })
