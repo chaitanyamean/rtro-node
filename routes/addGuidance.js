@@ -25,12 +25,16 @@ router.post('/addGuidance', async (req, res) => {
       guidanceId: shortid.generate(),
       name: req.body.name,
       mobileNumber: req.body.mobileNumber,
+      email: req.body.email,
       description: req.body.description,
-      isUser: req.body.isUser,
+      candidateType: req.body.candidateType,
       canContactOn: req.body.canContactOn,
       time: req.body.time,
       date: req.body.date,
     })
+
+    console.log(guidanceObj);
+    
     try {
   
       let guidanceData = await guidanceObj.save();
@@ -43,3 +47,5 @@ router.post('/addGuidance', async (req, res) => {
   
     }
   })
+
+  module.exports = router;

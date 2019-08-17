@@ -40,7 +40,7 @@ app.use((req, res, next) => {
  * Load Routes
  */
 app.use('/jobRoutes', jobRoutes);
-// app.use('/addGuidance', addGuidance);
+app.use('/common', addGuidance);
 app.use('/admin', admin);
 
 

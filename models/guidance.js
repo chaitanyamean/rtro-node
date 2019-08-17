@@ -18,16 +18,19 @@ let addGuidance = new Schema({
     description: {
         type: String
     },
-    isUser: {
+    candidateType: {
         type: String
     },
     canContactOn: {
-        type: String
+        type: Array
     },
     time: {
         type: String
     },
     date: {
+        type: String
+    },
+    guidanceId: {
         type: String
     }
 })
