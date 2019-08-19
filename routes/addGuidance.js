@@ -40,7 +40,6 @@ router.post('/addGuidance', async (req, res) => {
       let guidanceData = await guidanceObj.save();
   
       if (guidanceData) {
-        // res.send(guidanceData)
 
         response.generate(false, 'Submitted successfully', 200, guidanceData)
         res.send(response.generate(false, 'Submitted successfully', 200, guidanceData))
